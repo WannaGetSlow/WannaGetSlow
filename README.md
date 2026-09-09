@@ -32,29 +32,4 @@ Données hétérogènes, terrain, conditions imparfaites.
 
 ---
 
-#### Ma boîte à outils
-
-```
-Data & ML     Python · Scikit-Learn · TensorFlow/Keras · PyTorch · Pandas · NumPy
-Signal        SciPy · Optuna · filtrage, fusion de capteurs, segmentation
-Données       SQL · PostgreSQL · Pentaho · Power BI
-Production    Docker · Kubernetes · Git · GitHub Actions · pytest
-```
-
-Certifié **Dataiku** — ML Practitioner, MLOps Practitioner, Generative AI Practitioner,
-Developer, Advanced Designer.
-
----
-
-#### En ce moment
-
-🔍 Je cherche une **alternance de 12 mois** en data science / MLOps, en Île-de-France.
-Rythme 2 semaines en entreprise, 1 semaine à l'école.
-
-Ce qui m'intéresse : les équipes où un modèle doit finir en production, pas en slide.
-
-📫 medamine.chahine@gmail.com · [LinkedIn](https://www.linkedin.com/in/medamine-chahine)
-
----
-
-<sub>Certains projets sont en dépôt privé — je les présente volontiers sur demande.</sub>
+<sub> Certains projets sont en dépôt privé ou en production.</sub>
